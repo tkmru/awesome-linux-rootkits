@@ -1,4 +1,4 @@
-# awesome linux rootkits
+# Awesome Linux Rootkits
 
 ## LD_PRELOAD rootkit
 
@@ -19,3 +19,5 @@
 - [r00tkillah/HORSEPILL: HORSEPILL rootkit PoC](https://github.com/r00tkillah/HORSEPILL)
 - [us-16-Leibowitz-Horse-Pill-A-New-Type-Of-Linux-Rootkit.pdf](https://www.blackhat.com/docs/us-16/materials/us-16-Leibowitz-Horse-Pill-A-New-Type-Of-Linux-Rootkit.pdf)
 
+# Rootkit checker
+- [chkrootkit -- locally checks for signs of a rootkit](http://www.chkrootkit.org/)
