@@ -22,3 +22,5 @@
 
 # Rootkit checker
 - [chkrootkit -- locally checks for signs of a rootkit](http://www.chkrootkit.org/)
+- [The Rootkit Hunter project](http://rkhunter.sourceforge.net/)
+- [ossec/ossec-hids: OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.](https://github.com/ossec/ossec-hids)
