@@ -13,6 +13,7 @@
 - [nurupo/rootkit: Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64](https://github.com/nurupo/rootkit)
 - [QuokkaLight/rkduck: Linux v4.x.x Rootkit](https://github.com/QuokkaLight/rkduck)
 - [David-Reguera-Garcia-Dreg/enyelkm: LKM rootkit for Linux x86 with the 2.6 kernel. It inserts salts inside system_call and sysenter_entry.](https://github.com/David-Reguera-Garcia-Dreg/enyelkm)
+- [trimpsyw/adore-ng: linux rootkit adapted for 2.6 and 3.x](https://github.com/trimpsyw/adore-ng)
 
 ## Ramdisk rootkit
 
