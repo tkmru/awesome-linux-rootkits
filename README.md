@@ -20,7 +20,14 @@
 - [r00tkillah/HORSEPILL: HORSEPILL rootkit PoC](https://github.com/r00tkillah/HORSEPILL)
 - [us-16-Leibowitz-Horse-Pill-A-New-Type-Of-Linux-Rootkit.pdf](https://www.blackhat.com/docs/us-16/materials/us-16-Leibowitz-Horse-Pill-A-New-Type-Of-Linux-Rootkit.pdf)
 
-# Rootkit checker
+## Rootkit checker
 - [chkrootkit -- locally checks for signs of a rootkit](http://www.chkrootkit.org/)
 - [The Rootkit Hunter project](http://rkhunter.sourceforge.net/)
 - [ossec/ossec-hids: OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.](https://github.com/ossec/ossec-hids)
+
+## Materials
+- [Malware Memory Analysis of the Jynx2 Linux Rootkit (Part 1): Investigating a Publicly Available Linux Rootkit Using the Volatility Memory Analysis Framework](https://apps.dtic.mil/sti/citations/AD1004190)
+- [SANS Institute: Rootkit Detection with OSSEC](https://www.sans.org/reading-room/whitepapers/detection/paper/34555)
+- [The Horse Pill Rootkit vs. Forcepoint Threat Protection for Linux | Forcepoint](https://www.forcepoint.com/blog/x-labs/horse-pill-rootkit-vs-forcepoint-threat-protection-linux)
+- [The magic of LD_PRELOAD for Userland Rootkits | FlUxIuS' Blog](http://fluxius.handgrep.se/2011/10/31/the-magic-of-ld_preload-for-userland-rootkits/)
+- [Linux Rootkit Internals - Speaker Deck](https://speakerdeck.com/tkmru/linux-rootkit-internals)
