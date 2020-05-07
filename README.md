@@ -1,5 +1,11 @@
 # Awesome Linux Rootkits ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+The following is a quote from [wikipedia](https://en.wikipedia.org/wiki/Rootkit).
+
+> A rootkit is a collection of computer software, typically malicious, designed to enable access to a computer or an area of its software that is not otherwise allowed (for example, to an unauthorized user) and often masks its existence or the existence of other software. The term rootkit is a compound of "root" (the traditional name of the privileged account on Unix-like operating systems) and the word "kit" (which refers to the software components that implement the tool). The term "rootkit" has negative connotations through its association with malware.
+
+Linux rookit has been published a lot on GitHub. This page is a summary of them.
+
 ## LD_PRELOAD rootkit
 
 - [mempodippy/vlany: Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)](https://github.com/mempodippy/vlany)
