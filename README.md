@@ -4,7 +4,10 @@
 
 - [mempodippy/vlany: Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)](https://github.com/mempodippy/vlany)
 - [chokepoint/azazel: Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit. It is more robust and has additional features, and focuses heavily around anti-debugging and anti-detection.](https://github.com/chokepoint/azazel)
+- [chokepoint/jynxkit: JynxKit is an LD_PRELOAD userland rootkit for Linux systems with reverse connection SSL backdoor](https://github.com/chokepoint/jynxkit)
 - [chokepoint/Jynx2: JynxKit2 is an LD_PRELOAD userland rootkit based on the original JynxKit. The backdoor has been replaced with an "accept()" system hook.](https://github.com/chokepoint/Jynx2)
+- [ChristianPapathanasiou/apache-rootkit: A malicious Apache module with rootkit functionality](https://github.com/ChristianPapathanasiou/apache-rootkit)
+- [unix-thrust/beurk: BEURK is an userland preload rootkit for GNU/Linux, heavily focused around anti-debugging and anti-detection.](https://github.com/unix-thrust/beurk)
 
 ## Kernel Module rootkit
 
